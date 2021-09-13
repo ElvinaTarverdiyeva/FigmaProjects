@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FigmaProjects/static/css/main.20f81494.chunk.css",
+    "main.js": "/FigmaProjects/static/js/main.91a48949.chunk.js",
+    "main.js.map": "/FigmaProjects/static/js/main.91a48949.chunk.js.map",
+    "runtime-main.js": "/FigmaProjects/static/js/runtime-main.a4fd45e3.js",
+    "runtime-main.js.map": "/FigmaProjects/static/js/runtime-main.a4fd45e3.js.map",
+    "static/css/2.4be38407.chunk.css": "/FigmaProjects/static/css/2.4be38407.chunk.css",
+    "static/js/2.6cf2f0cf.chunk.js": "/FigmaProjects/static/js/2.6cf2f0cf.chunk.js",
+    "static/js/2.6cf2f0cf.chunk.js.map": "/FigmaProjects/static/js/2.6cf2f0cf.chunk.js.map",
+    "static/js/3.9aeceb2b.chunk.js": "/FigmaProjects/static/js/3.9aeceb2b.chunk.js",
+    "static/js/3.9aeceb2b.chunk.js.map": "/FigmaProjects/static/js/3.9aeceb2b.chunk.js.map",
+    "index.html": "/FigmaProjects/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/FigmaProjects/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.20f81494.chunk.css.map": "/FigmaProjects/static/css/main.20f81494.chunk.css.map",
+    "static/js/2.6cf2f0cf.chunk.js.LICENSE.txt": "/FigmaProjects/static/js/2.6cf2f0cf.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/FigmaProjects/static/media/page4bg.39b84cd7.png",
+    "static/media/page1img.cd77e399.png": "/FigmaProjects/static/media/page1img.cd77e399.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4fd45e3.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.6cf2f0cf.chunk.js",
+    "static/css/main.20f81494.chunk.css",
+    "static/js/main.91a48949.chunk.js"
+  ]
+}
